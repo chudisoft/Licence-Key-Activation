@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceKey Activation", "LicenceKey Activation.csproj", "{BDF5E3CB-8516-4BB9-A851-A9D2DDB99D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF5E3CB-8516-4BB9-A851-A9D2DDB99D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF5E3CB-8516-4BB9-A851-A9D2DDB99D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF5E3CB-8516-4BB9-A851-A9D2DDB99D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF5E3CB-8516-4BB9-A851-A9D2DDB99D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1CBDA2-09F8-41BE-9415-7C3E240AA908}
+	EndGlobalSection
+EndGlobal
